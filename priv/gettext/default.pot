@@ -1201,6 +1201,8 @@ msgstr ""
 #: lib/phoenix_kit_comments/web/index.html.heex:322
 #, elixir-autogen, elixir-format
 msgid "This page shows comments on records you manage."
+msgstr ""
+
 #: lib/phoenix_kit_comments/web/comments_component.ex:1072
 #, elixir-autogen, elixir-format
 msgid "Files can't be added while editing a comment. Add them to a new comment."
