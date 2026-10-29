@@ -1206,3 +1206,22 @@ msgstr "Модерация комментариев к записям, кото�
 #, elixir-autogen, elixir-format
 msgid "This page shows comments on records you manage."
 msgstr "На этой странице показаны комментарии к записям, которыми вы управляете."
+#: lib/phoenix_kit_comments/web/comments_component.ex:1072
+#, elixir-autogen, elixir-format
+msgid "Files can't be added while editing a comment. Add them to a new comment."
+msgstr "При редактировании комментария нельзя добавлять файлы. Добавьте их в новый комментарий."
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1078
+#, elixir-autogen, elixir-format
+msgid "Files can't be attached to comments here."
+msgstr "Здесь к комментариям нельзя прикреплять файлы."
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1090
+#, elixir-autogen, elixir-format
+msgid "Images can't be pasted into the text. Paste the image again to attach it."
+msgstr "Изображения нельзя вставлять в текст. Вставьте изображение ещё раз, чтобы прикрепить его."
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1075
+#, elixir-autogen, elixir-format
+msgid "The pasted file could not be attached. Try the attach button."
+msgstr "Не удалось прикрепить вставленный файл. Попробуйте кнопку вложения."

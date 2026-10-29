@@ -1202,3 +1202,22 @@ msgstr "Modereeri kommentaare kirjetel, mida haldad"
 #, elixir-autogen, elixir-format
 msgid "This page shows comments on records you manage."
 msgstr "See leht näitab kommentaare kirjetel, mida haldad."
+#: lib/phoenix_kit_comments/web/comments_component.ex:1072
+#, elixir-autogen, elixir-format
+msgid "Files can't be added while editing a comment. Add them to a new comment."
+msgstr "Kommentaari muutmisel ei saa faile lisada. Lisa need uude kommentaari."
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1078
+#, elixir-autogen, elixir-format
+msgid "Files can't be attached to comments here."
+msgstr "Siin ei saa kommentaaridele faile lisada."
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1090
+#, elixir-autogen, elixir-format
+msgid "Images can't be pasted into the text. Paste the image again to attach it."
+msgstr "Pilte ei saa teksti sisse kleepida. Kleebi pilt uuesti, et see manusena lisada."
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1075
+#, elixir-autogen, elixir-format
+msgid "The pasted file could not be attached. Try the attach button."
+msgstr "Kleebitud faili ei õnnestunud lisada. Proovi manuse nuppu."

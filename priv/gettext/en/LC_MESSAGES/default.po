@@ -1201,4 +1201,22 @@ msgstr ""
 #: lib/phoenix_kit_comments/web/index.html.heex:322
 #, elixir-autogen, elixir-format
 msgid "This page shows comments on records you manage."
+#: lib/phoenix_kit_comments/web/comments_component.ex:1072
+#, elixir-autogen, elixir-format
+msgid "Files can't be added while editing a comment. Add them to a new comment."
+msgstr ""
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1078
+#, elixir-autogen, elixir-format
+msgid "Files can't be attached to comments here."
+msgstr ""
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1090
+#, elixir-autogen, elixir-format
+msgid "Images can't be pasted into the text. Paste the image again to attach it."
+msgstr ""
+
+#: lib/phoenix_kit_comments/web/comments_component.ex:1075
+#, elixir-autogen, elixir-format
+msgid "The pasted file could not be attached. Try the attach button."
 msgstr ""
